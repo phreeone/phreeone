@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @phreeone
 - 👀 I’m interested in vSphere, vSAN, VCF
 - 🌱 I’m currently learning VCP-DCV 22
-- 💞️ I’m looking to collaborate on ...studying for 
+- 💞️ I’m looking to collaborate on studying for VCTA-DCV, VCP-DCV 22
 - 📫 How to reach me tcolwell@vmware.com
 
 <!---
